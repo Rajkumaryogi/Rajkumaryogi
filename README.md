@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Cloud computing and Data Structure Algorithm **
 - 💬 Ask me about **Development**
 - 📫 How to reach me **work.yogirajkumar@gmail.com**
-- 👨‍💻 All of my projects are available at **yogi-portfolio-neon.vercel.app**
+- 👨‍💻 All of my projects are available at **https://rajkumaryogi.vercel.app**
 - 📝 I regularly write articles on **Cloud Computing**
 - 📄 Know about my experiences **https://docs.google.com/document/d/1y89-dms9A_yrdGTGdYxlhec5QoLTcgZS5zvrDhIDQ9s/edit?usp=sharing**
 - ⚡ Fun fact **I think I'm funny**
